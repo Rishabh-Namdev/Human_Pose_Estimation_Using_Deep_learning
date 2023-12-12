@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+.idea/
+
+human-pose-estimation.bin
