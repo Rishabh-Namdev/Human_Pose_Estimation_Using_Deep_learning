@@ -3,3 +3,4 @@ __pycache__
 .idea/
 
 human-pose-estimation.bin
+model onnx
